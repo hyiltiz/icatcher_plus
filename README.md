@@ -34,7 +34,7 @@ We recommend installing [Miniconda](https://docs.conda.io/en/latest/miniconda.ht
 
 Navigate to the icatcher_plus folder using the Anaconda Prompt:
 
-`cd /path/to/icathcer_plus`
+`cd /path/to/icatcher_plus`
 
 Then:
 
